@@ -1,8 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 300">
-<rect fill="#FFCE00" width="450" height="300"/>
-<rect fill="#289728" width="450" height="225"/>
-<rect fill="#FFFFFF" width="450" height="150"/>
-<rect fill="#003082" width="450" height="75"/>
-<rect x="187.5" fill="#D21034" width="75" height="300"/>
-<path fill="#FFCE00" d="M75.028,7.004L94.9,67.996L42.902,30.333h64.197L55.1,67.996L75.028,7.004z"/>
+<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-cf" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="a">
+      <path fill-opacity=".7" d="M0 0h512v512H0z"/>
+    </clipPath>
+  </defs>
+  <g fill-rule="evenodd" clip-path="url(#a)">
+    <path fill="#00f" d="M-52-.5h768v127H-52z"/>
+    <path fill="#ff0" d="M-52 383.5h768V512H-52z"/>
+    <path fill="#009a00" d="M-52 255h768v128.5H-52z"/>
+    <path fill="#fff" d="M-52 126.5h768V255H-52z"/>
+    <path fill="red" d="M268 0h128v512H268z"/>
+    <path fill="#ff0" d="M109.5 112.3 75.9 89.1l-33.4 23.4 11.6-39.2-32.5-24.6 40.7-1L75.7 8.8l13.5 38.6 40.8.8L97.6 73"/>
+  </g>
 </svg>
